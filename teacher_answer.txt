@@ -1,0 +1,11 @@
+Gray-level slicing is an image processing technique used to highlight specific intensity ranges in an image. There are two types of gray-level slicing:
+
+1. Gray-level slicing with background:
+   - In this method, all pixel intensities within a specified range are highlighted, while the rest of the image is preserved (retains its original intensity).
+   - This is useful when you want to emphasize certain features in an image without losing the context provided by the background.
+
+2. Gray-level slicing without background:
+   - In this method, only the pixel intensities within the specified range are highlighted, and the rest of the image is set to a constant value (usually black or white).
+   - This is useful when you want to isolate specific features in an image and remove all other details.
+
+Both methods involve defining a range of intensity values and applying a transformation to the image pixels based on whether they fall within that range.

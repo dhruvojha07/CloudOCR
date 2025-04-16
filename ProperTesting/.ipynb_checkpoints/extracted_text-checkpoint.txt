@@ -1,0 +1,59 @@
+◁think▷Alright, I need to extract all the text from the given image and present it coherently. The image appears to be a handwritten note about asymptotic notation in the context of algorithms and data structures. Let me carefully read and transcribe the content:
+
+The notes seem to cover the following topics:
+
+1. Asymptotic notation - defining that a function is tending to one axis value (like a limit). An example given is e².
+2. Asymptotic notation in data structures are used to represent time complexities of your algorithms.
+3. It tells about the worst, average, and best case time complexity - time taken to execute a particular algorithm or code.
+4. Denotations of best, worst, and average case are given:
+   - O(Big O) → Worst case
+   - Ω (Omega) → Best case
+   - Θ (Theta) → Average case
+
+I need to transcribe this information accurately without making any assumptions or additions. I'll present this text in a clear, coherent format.◁/think▷# Transcribed Text from Image:
+
+The image contains handwritten notes about asymptotic notation in algorithm analysis. Here is the coherent text extracted:
+
+---
+
+**1) Asymptotic** Defines that a function is tending to one axis value. You can say it's a limit. **Example of Asymptotic Function could be e².**
+
+**2) Asymptotic notation in Data Structures are used to represent time Complexities of your Algorithms.**
+
+**3) It tells about the Worst, Average and Best Case time Complexity i.e time taken to execute a particular Algorithm or Code.**
+
+**4) The denotions of Best, Worst and average case are:**
+- **O (Big O) → Worst Case**
+- **Ω (Omega) → Best Case**
+- **Θ (Theta) → Average Case**
+
+---
+
+This text accurately represents the content visible in the handwritten image, focusing solely on the information presented without addition or assumption.
+◁think▷Okay, let's extract the text from this image. The image shows a handwritten page with some bullet points and code snippets. The first section is labeled with a "5)" and discusses data structures and algorithm cost cases. The next part is labeled "6)" with example code in C. Then there's a section labeled "7)" with a comparison of time complexities.
+
+I need to transcribe all the visible text accurately. The first paragraph under 5) talks about considering the worst-case scenario in algorithms. The code example in 6) is a simple loop incrementing a counter. The 7) section lists O(1) compared to other complexities like O(log n), O(n²), up to O(n!). The last part mentions increasing order and growth functions.
+
+I should make sure to capture all the handwritten notes, including the arrows and diagrams. Avoid any errors in OCR if possible, but since it's handwritten, just transcribe as-is. Check for any missing or partial words and try to read them correctly based on context.◁/think▷5) But in data structure we always consider that what is the worst case of an algorithm or code that define that how much computational power computer consumes to execute.  
+
+6) Ex: int count = 0  
+   for (int i = 0 ; i < n ; i++) {  
+      count ++ ;  
+   }  
+
+In this code the loop has time complexity of O(n) and the count variable update has O(1) time complexity = O(n)  
+
+7) O(1) > O(log n) > O(√n) > O(n) < O(n²) < O(n³) … < O(2ⁿ) < O(n!) < O(nⁿ)  
+This is an increasing order (growth function)  
+
+O(1)  
+O(log n)  
+O(√n)  
+O(n)  
+O(n²)  
+O(n³)  
+O(2ⁿ)  
+O(n!)  
+O(nⁿ)  
+
+[Diagram showing increasing arrows labeled O(1), O(log n), O(√n), O(n), O(n²), O(n³), O(2ⁿ), O(n!), O(nⁿ)]
